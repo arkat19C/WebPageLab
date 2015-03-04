@@ -1,0 +1,53 @@
+/* XPATH */
+
+body {
+    font-size: 40;
+}
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.background {
+    background-color: lightblue;
+}
+
+.paragraph_left {
+    text-align: left;
+    tab-size: 40px;
+    font-family: sans-serif, fantasy;
+}
+
+.paragraph_center {
+    text-align: center;
+    tab-size: 40px;
+    font-family: sans-serif, fantasy;
+}
+
+#text_demo {
+    font-style: italic;
+}
+
+#border_demo {
+    border-style: dashed;
+    border-color: darkorange;
+    border-width: 5px;
+}
+
+#border2 {
+    border-style: dotted;
+    border-color: red;
+    border-width: 6px;
+}
+
+.link {
+    font-size: 25px;
+}
+
+.media {
+    display: block;
+    margin: 0 auto;
+}
